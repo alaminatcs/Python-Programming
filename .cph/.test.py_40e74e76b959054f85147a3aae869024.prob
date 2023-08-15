@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\Skill Edu\\CS Fundamental\\Python-Programming\\test.py","tests":[{"id":1688531823330,"input":"1\n123 4","output":"YES"},{"id":1688532896060,"input":"1\n123 2","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Skill Edu\\CS Fundamental\\Python-Programming\\test.py","group":"local","local":true}
