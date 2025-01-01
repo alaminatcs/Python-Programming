@@ -10,4 +10,4 @@ height = float(input('Put your height: '))
 
 print('\nHello ' + name)
 print('You are ' + str(age) + ' years old')
-print('You are ' + str(height) + 'cm tall')
+print(f"You are {height} cm tall")

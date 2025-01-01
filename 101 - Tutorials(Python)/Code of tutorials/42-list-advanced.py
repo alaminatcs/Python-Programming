@@ -15,7 +15,7 @@ print(inp)
 '''
 #add/sub/mul/div with each element of list
 ar = [1, 2, 3, 4, 5]            
-ar = [i*5 for i in ar]          #[(expressio-what to want with item) for item in list]
+ar = [i*5 for i in ar]          #[(expression-what to want with item) for item in list]
 print(ar)
 
 #iterating through a string using list comprehension
@@ -49,7 +49,7 @@ print(ar)
 '''
 #2D list comprehension
 
-#Transposr matrix conversion    #brute_force_way
+#Transpose matrix conversion    #brute_force_way
 ar = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 br = []
 for row in range(3):
@@ -59,7 +59,7 @@ for row in range(3):
     br.append(cr)
 print(br)
 
-#Transposr matrix conversion    #short_cut_way
+#Transpose matrix conversion    #short_cut_way
 ar = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 br = [[col[row] for col in ar] for row in range(3) ]
 print(br)

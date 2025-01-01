@@ -92,7 +92,7 @@ print(ar)
 #sort list
 ar.sort(reverse = True)     #descending order
 print(ar)
-ar.sort()       #ar.sort(reverse = True) -> ascending order             
+ar.sort()       #ar.sort(reverse = False) -> ascending order             
 print(ar)
 
 #max / min element finding

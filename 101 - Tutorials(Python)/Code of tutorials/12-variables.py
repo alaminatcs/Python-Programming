@@ -1,4 +1,4 @@
-#this program is about variable types with user taking user input
+#this file is about variable types with user taking user input
 
 #takes user input and print it
 # --------------------------------------------------------------------
@@ -35,7 +35,7 @@ list_var = ['rice', 'tomato', 'onion', 'oil', 1, 0.5, 0.27, 0.02500005]
 print('List value: ', list_var)
 
 
-# Unpacking unpack the elements(like a list, tuple, sets...) into individual variables.
+# Unpacking: unpack the elements(like a list, tuple, sets...) into individual variables.
 # --------------------------------------------------------------------
 print(*[1, 2, 3])                           #Output: 1 2 3
 

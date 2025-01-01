@@ -1,4 +1,4 @@
-# tuple: similar to list but ordered and unchangable.
+# tuple: similar to list but unchangable.
 # used to group together related data.
 # syntax: tuple_name = (item1, item2, ...)
 # ---------------------------------------------------
